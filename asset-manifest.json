@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vault-app-using-Chainlink-keepers-master/static/css/main.16c7a011.css",
+    "main.js": "/Vault-app-using-Chainlink-keepers-master/static/js/main.da87aecc.js",
+    "static/js/787.006af583.chunk.js": "/Vault-app-using-Chainlink-keepers-master/static/js/787.006af583.chunk.js",
+    "static/media/logo.png": "/Vault-app-using-Chainlink-keepers-master/static/media/logo.4764d5b602aed704dc6b.png",
+    "index.html": "/Vault-app-using-Chainlink-keepers-master/index.html",
+    "main.16c7a011.css.map": "/Vault-app-using-Chainlink-keepers-master/static/css/main.16c7a011.css.map",
+    "main.da87aecc.js.map": "/Vault-app-using-Chainlink-keepers-master/static/js/main.da87aecc.js.map",
+    "787.006af583.chunk.js.map": "/Vault-app-using-Chainlink-keepers-master/static/js/787.006af583.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c7a011.css",
+    "static/js/main.da87aecc.js"
+  ]
+}
